@@ -1,6 +1,6 @@
 {
   "name": "Ticket14820TestGit",
-  "app_id": "",
+  "app_id": "60a6fbf4",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
