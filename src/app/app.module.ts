@@ -36,7 +36,7 @@ export class MyErrorHandler implements ErrorHandler {
 }
 
 Pro.init('60a6fbf4', {
-  appVersion: '0.2.0'
+  appVersion: '0.2.1'
 })
 
 @NgModule({
